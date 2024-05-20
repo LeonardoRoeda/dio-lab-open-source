@@ -1,0 +1,213 @@
+[33mcommit e2e632b38014f1cda01fa74eb257f49064bf8dfb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/community/leonardoroeda[m[33m)[m
+Author: LeonardoRoeda <leonardo99.roeda@gmail.com>
+Date:   Thu May 2 16:36:09 2024 -0300
+
+    feat: add leonardoroeda profile
+
+[33mcommit b35021e7203ab015a106af0895d0bb339876ef65[m[33m ([m[1;31morigin/feat/community/leonardoroeda[m[33m)[m
+Author: LeonardoRoeda <leonardo99.roeda@gmail.com>
+Date:   Thu May 2 16:22:05 2024 -0300
+
+    feat: add leonardoroeda profile
+
+[33mcommit 7d67e9d7d23ed0f39722aff63255f13d438eaf9e[m[33m ([m[1;31mupstream/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: d8ca7a498 21d232e6f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:52:44 2024 +0000
+
+    Merge pull request #31707 from Zibia-Cunha/feat/community/Zibia-Cunha
+
+[33mcommit 21d232e6f6ae08f05f9ebefcd0773cfa79eeadcc[m
+Author: Zíbia Cunha <149970428+Zibia-Cunha@users.noreply.github.com>
+Date:   Thu May 2 14:52:18 2024 -0300
+
+    Rename zibia-cunha.md to Zibia-Cunha.md
+
+[33mcommit d8ca7a498f5909cf850e8e12776c67c634bf5b54[m
+Merge: 0a6f0d1c3 81bad1f80
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:47:05 2024 +0000
+
+    Merge pull request #31725 from leonardo-felipe-sanchez/feat/comunity/leonardo-felipe-sanchez
+
+[33mcommit 0a6f0d1c30598a5166db8f1d24bda4dab6a5192b[m
+Merge: 2eb8878e3 8aca1b947
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:46:57 2024 +0000
+
+    Merge pull request #31724 from GenilsonJuniorPnx/feat/community/GenilsonJuniorPnx
+
+[33mcommit 2eb8878e3a3178a411ee540c7362b2dde1bba81e[m
+Merge: a4c447ad9 a9bdabd31
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:46:43 2024 +0000
+
+    Merge pull request #31723 from Joao1152/main
+
+[33mcommit a9bdabd311ac102fb4a7ecc514c9134665360240[m
+Author: Joao1152 <154523550+Joao1152@users.noreply.github.com>
+Date:   Thu May 2 14:46:17 2024 -0300
+
+    Update and rename Joao1152.readme to Joao1152.md
+
+[33mcommit a4c447ad9fca3c398d3bd9178b5757421ee550d5[m
+Merge: 04b06032c 98057c2aa
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:44:46 2024 +0000
+
+    Merge pull request #31721 from NatanNMendes/feat/community/Natan
+
+[33mcommit 98057c2aa542c95c5b314692797a799f6c2ad2f9[m
+Author: Natan Nunes - (He | Ele) <111541934+NatanNMendes@users.noreply.github.com>
+Date:   Thu May 2 14:44:18 2024 -0300
+
+    Rename Natan.md to NatanNMendes.md
+
+[33mcommit 8aca1b94739f8e11e5f0d544f34c259ffb16420e[m
+Author: GenilsonJuniorPnx <141347979+GenilsonJuniorPnx@users.noreply.github.com>
+Date:   Thu May 2 14:44:12 2024 -0300
+
+    Create GenilsonJuniorPnx.md
+
+[33mcommit 81bad1f807b98c5536f42a9400d5e98bd60126ef[m
+Author: leonardo-felipe-sanchez <felipinhosanchez77@gmail.com>
+Date:   Thu May 2 13:40:09 2024 -0400
+
+    feat: add leonardo-felipe-sanchez
+
+[33mcommit 95eeff79670b630170567c1846ca8e4119a9875e[m
+Merge: e5f407499 04b06032c
+Author: Joao1152 <154523550+Joao1152@users.noreply.github.com>
+Date:   Thu May 2 14:39:24 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into main
+
+[33mcommit 04b06032c5f1c861f392e729c8d64a80d38bce4c[m
+Merge: b4ca97a82 b5346e8e7
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:38:22 2024 +0000
+
+    Merge pull request #31722 from VictorDDias/feat/community/VictorDDias
+
+[33mcommit e5f4074990ab58c03369a60f37b8d4281e9ae4bb[m
+Author: Joao1152 <154523550+Joao1152@users.noreply.github.com>
+Date:   Thu May 2 14:38:06 2024 -0300
+
+    Update Joao1152.readme
+
+[33mcommit b4ca97a82dac7dabefe34f67fd5ccea9e9ef9788[m
+Merge: 256f7ef31 03227dc6e
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:37:29 2024 +0000
+
+    Merge pull request #31720 from lyondelgado/feat/community/lyondelgado
+
+[33mcommit 74a2b139c29197b2c61a5ecf95b41791c1a50398[m
+Author: Joao1152 <154523550+Joao1152@users.noreply.github.com>
+Date:   Thu May 2 14:36:07 2024 -0300
+
+    Create Joao1152.readme
+
+[33mcommit 256f7ef3173bcfa3cb2571381c67462ae1354974[m
+Merge: b8c8e774e 0e3379044
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:36:06 2024 +0000
+
+    Merge pull request #31719 from marcilio-gomes/feat/community/marcilio-gomes
+
+[33mcommit 03227dc6e24efdd9de1b4f559d07286d25650eb8[m
+Author: lyondelgado <76871442+lyondelgado@users.noreply.github.com>
+Date:   Thu May 2 14:35:14 2024 -0300
+
+    Criando lyondelgado.md
+
+[33mcommit 90deeaa6ab8eb8e62e80a75e7355cf0841305598[m
+Author: Natan Nunes - (He | Ele) <111541934+NatanNMendes@users.noreply.github.com>
+Date:   Thu May 2 14:34:35 2024 -0300
+
+    Create Natan.md
+    
+    This commit includes badges for social media links in the README file. Badges for Telegram, LinkedIn, Instagram, and Codepen have been added, providing clickable links to corresponding profiles. The badges are displayed in a left-aligned inline block for better organization and visibility.
+
+[33mcommit b8c8e774ea9d36b4dadf2de9a23700a9889ebc02[m
+Merge: daef7ac7d 7a064cf21
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:34:24 2024 +0000
+
+    Merge pull request #31718 from rudyfernandes/feat/community/rudyfernandes
+
+[33mcommit daef7ac7d0acf679aa2a7d0e639581557716e63d[m
+Merge: 95921f02b c4a4f6a3d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:32:16 2024 +0000
+
+    Merge pull request #31717 from Murilo47/feat/community/Murilo47
+
+[33mcommit b5346e8e7038f8bbc1ed607aaa292d17b471abdc[m
+Author: Victor Dias <vitorrdd@hotmail.com>
+Date:   Thu May 2 14:32:10 2024 -0300
+
+    feat: add VictorDDias profile
+
+[33mcommit c4a4f6a3d75b8791f12321ef01abe1e0aceb0bb0[m
+Merge: 844a25f88 95921f02b
+Author: Murilo Favero <42047106+Murilo47@users.noreply.github.com>
+Date:   Thu May 2 14:29:28 2024 -0300
+
+    Merge branch 'digitalinnovationone:main' into feat/community/Murilo47
+
+[33mcommit 95921f02bb3cf7b9e94bcd5f605f9e0e3eb0f667[m
+Merge: 74637d43d b2f408111
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:27:32 2024 +0000
+
+    Merge pull request #31716 from robinsonronchi/feat/community/robinsonronchi
+
+[33mcommit 0e3379044ad5c8374213854181a229becd428705[m
+Author: Marcilio Gomes <123701492+marcilio-gomes@users.noreply.github.com>
+Date:   Thu May 2 14:25:52 2024 -0300
+
+    Create Profile marcilio-gomes.md
+
+[33mcommit 844a25f8880a578ded0e9f85ae86683c30650f91[m
+Author: Murilo47 <murilo.faverol@gmail.com>
+Date:   Thu May 2 14:25:14 2024 -0300
+
+    feat: add Murilo47 profile
+
+[33mcommit 74637d43d0b4975f9079b65dce3aaac5baa8b0da[m
+Merge: 8665a77d5 70f78bd6f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:24:21 2024 +0000
+
+    Merge pull request #31714 from Gs2ntana/feat/community/Gs2ntana
+
+[33mcommit 70f78bd6fc31b12eaf9e114c13aac2257da9afdd[m
+Author: Gustavo Santana <contatogustavostna@gmail.com>
+Date:   Thu May 2 14:19:28 2024 -0300
+
+    feat: add Gs2ntana profile
+
+[33mcommit b2f4081115cd16db88ef09eb83cb505962513b24[m
+Author: robisonronchi <robison.ronchi@gmail.com>
+Date:   Thu May 2 14:15:09 2024 -0300
+
+    feat: add robinsonronchi profile
+
+[33mcommit 8665a77d5dc598047e83f5b2ef62c87507e664f9[m
+Merge: 699b61d93 a4eee7538
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:14:11 2024 +0000
+
+    Merge pull request #31710 from raphamass/feat/community/raphamass
+
+[33mcommit 699b61d93cf63e166ed40fc5e49c36ede92bb7df[m
+Merge: 7854bbb70 9919bb5ce
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu May 2 17:14:00 2024 +0000
+
+    Merge pull request #31709 from GFThalia/feat/community/GFThalia
+
+[33mcommit 7854bbb702b6a214e0a681fa3a9ee3f8b16a73ed[m
+Merge: 1b5e353e1 af6b9acf6
+Author: github-actions[bot] <41898282+github-actions[bot]@users.nore
